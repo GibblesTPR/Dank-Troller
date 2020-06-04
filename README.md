@@ -1,4 +1,4 @@
-# Dank-Troller
+# Dank-Troller - Discord Troll for Dank Memer Bot
 
 **Patch Notes**
 
