@@ -4,6 +4,7 @@
 
 
 **Version:** *v.0.1.0*
+
 **-- Added Basic Features such as:**
 
 thelp - Shows a list of commands and some basic help
@@ -21,10 +22,12 @@ pls heist - Sends fake heist
  
  
 **Version:** *v.0.1.2*
+
 Major bug fixes
 
 
 **Version:** *v.0.2.0*                 
+
 **-- Bot wiped and commansd reset to fix bot only reacting with :bank: in server: The Planning Room**
 
 **-- Removed command: tinvite**
@@ -33,4 +36,5 @@ Major bug fixes
 
 
 **Version:** *v.0.2.1*
+
 Major bug fixes for using: join heist
