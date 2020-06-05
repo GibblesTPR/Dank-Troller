@@ -33,4 +33,4 @@ Major bug fixes
 
 
 **Version:** *v.0.2.1*
-**-- Update underway.**
+Major bug fixes for using: join heist
